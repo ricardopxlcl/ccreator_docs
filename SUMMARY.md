@@ -12,6 +12,7 @@
 * [❔ How to create a token](help/how-to-create-a-token.md)
 * [👔 Referral Program](help/referral-program/README.md)
   * [Token Creator](help/referral-program/token-creator.md)
+* [Create a Solana Wallet](help/create-a-solana-wallet.md)
 
 ## ⚙️ Official Links
 

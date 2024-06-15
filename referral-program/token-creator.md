@@ -1,8 +1,8 @@
 # Token Creator
 
-### New Referral Program is Open
+### Current referral program
 
-Currently, the referral program is open, and anyone can participate. By referring CCREATOR to other users, you will receive 6% of the fees paid by your referrals when they create tokens on the platform.
+Currently, the referral program is open, and anyone can participate. By referring CCREATOR to other users, you will receive 25% of the transaction paid by your referrals when they create tokens on the platform.
 
 ### Updated Referral Links
 

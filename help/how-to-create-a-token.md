@@ -15,4 +15,12 @@ Welcome to CCREATOR's token creation feature, where you can bring your ideas to 
    * **Viewing**: View your new token in your wallet and dashboard.
    * **Distribution and Monitoring**: Use the platform to distribute and monitor your tokens.
 
-With CCREATOR, you can easily create and manage your own tokens on the Solana blockchain. Follow these simple steps, and your token will be ready for use in no time!CompartirReescribir\
+### How to create a Token?
+
+{% embed url="https://www.youtube.com/watch?v=SvvJR2b5u0A" %}
+
+### Link App:
+
+{% embed url="https://ccreator.io/create-token" %}
+
+With CCREATOR, you can easily create and manage your own tokens on the Solana blockchain. Follow these simple steps, and your token will be ready for use in no time!

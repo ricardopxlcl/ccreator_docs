@@ -18,6 +18,6 @@ With CCREATOR, you're not just creating a token; you're crafting a piece of digi
 
 To get started, visit the CCREATOR app at https://ccreator.io and embark on your token creation journey. 🚀
 
-Don't forget to explore the [Referral Program](../referral-program/) with Ccreator.io and learn how to create new Solana tokens.
+Don't forget to explore the [Referral Program](../help/referral-program/) with Ccreator.io and learn how to create new Solana tokens.
 
 Share your creations with the CCREATOR community and inspire others with your innovative designs. 💡 Together, we can push the boundaries of token creation and unlock new possibilities in the world of blockchain technology.Happy creating, and may the crypto force be with you! 🪐\

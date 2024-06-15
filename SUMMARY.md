@@ -10,14 +10,11 @@
 ## HELP
 
 * [❔ How to create a token](help/how-to-create-a-token.md)
+* [👔 Referral Program](help/referral-program/README.md)
+  * [Token Creator](help/referral-program/token-creator.md)
 
-***
-
-* [👔 Referral Program](referral-program/README.md)
-  * [Token Creator](referral-program/token-creator.md)
-
-## ⚙️ Links
+## ⚙️ Official Links
 
 * [Twitter](https://x.com/ccreator\_sol)
 * [Telegram](https://t.me/ccreatorio)
-* [Dapp](https://ccreator.io)
+* [Dapp / Web](https://ccreator.io)

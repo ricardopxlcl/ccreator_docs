@@ -7,11 +7,14 @@
 * [Token Creator 🚀​](featured/token-creator.md)
 * [Token Manager (Beta ​👩🏻‍🍳​​​​)](featured/token-manager-beta.md)
 
+## HELP
+
+* [❔ How to create a token](help/how-to-create-a-token.md)
+
 ***
 
 * [👔 Referral Program](referral-program/README.md)
   * [Token Creator](referral-program/token-creator.md)
-* [❔ How to create a token](how-to-create-a-token.md)
 
 ## ⚙️ Links
 

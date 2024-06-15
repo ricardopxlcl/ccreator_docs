@@ -4,12 +4,12 @@ CCREATOR is a powerful platform developed by a dedicated team, enabling users to
 
 
 
-**ROADMAP COIN CREATOR**
+**FEATURED COIN CREATOR**
 
-* [x] **Token Creator**\
+* [x] [**Token Creator**](featured/token-creator.md) 🔗​\
   Everyone can create your own token\
 
-* [x] **Token Manager**\
+* [x] [**Token Manager**](featured/token-manager-beta.md) 🔗 ​\
   You can manage on our Dapp your Tokens and check relevant information.\
 
 * [ ] Swap _**(Soon 👩🏻‍🍳​​ )**_\
@@ -23,3 +23,5 @@ CCREATOR is a powerful platform developed by a dedicated team, enabling users to
 With CCREATOR, you can effortlessly generate custom tokens or meme coins in just a few simple steps. Our user-friendly interface guides you through the entire process, from connecting your Solana wallet to configuring token details and advanced options.
 
 Enjoy the web3!
+
+Support by https://tkns.dev

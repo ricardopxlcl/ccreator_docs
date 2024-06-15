@@ -12,7 +12,13 @@ Welcome to the exciting world of token creation with CCREATOR! 💎 Whether you'
 
 ### How to create a Token?
 
+{% embed url="https://www.youtube.com/watch?v=SvvJR2b5u0A" %}
 
+### Link App:
+
+{% embed url="https://ccreator.io/create-token" %}
+
+### Start with CCREATOR
 
 With CCREATOR, you're not just creating a token; you're crafting a piece of digital art that can be traded, collected, and appreciated by crypto enthusiasts worldwide. 🌍
 

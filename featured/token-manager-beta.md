@@ -4,6 +4,10 @@ Our Token Manager is currently in beta, but it offers a seamless and user-friend
 
 While the Token Manager is still in its initial stages, we have exciting plans for future enhancements and additional features. Here's what's on the horizon:
 
+### Link App:
+
+[https://ccreator.io/token-manager](https://ccreator.io/token-manager)
+
 ### Drag and Drop Sorting (Cooking ​​👩🏻‍🍳​)
 
 Stay tuned for the upcoming drag and dr​op sorting functionality, which will allow you to organize your token list according to your preferences, making it even more convenient to navigate and manage your digital assets.

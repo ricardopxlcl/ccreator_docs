@@ -6,7 +6,7 @@ While the Token Manager is still in its initial stages, we have exciting plans f
 
 ### Link App:
 
-[https://ccreator.io/dashboard](token-manager-beta.md#link-app)
+[https://app.ccreator.io/dashboard](https://app.ccreator.io/dashboard)
 
 ### Drag and Drop Sorting (Cooking ​​👩🏻‍🍳​)
 

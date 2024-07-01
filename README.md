@@ -10,13 +10,14 @@ CCREATOR is a powerful platform developed by a dedicated team, enabling users to
   Everyone can create your own token\
 
 * [x] [**Token Manager**](featured/token-manager-beta.md) 🔗 ​\
-  You can manage on our Dapp your Tokens and check relevant information.\
-
+  You can manage on our Dapp your Tokens and check relevant information.
+* [ ] **Multisender **_**(Ready to launch 👩🏻‍🍳​​ )**_\
+  We are cooking.
 * [ ] Swap _**(Soon 👩🏻‍🍳​​ )**_\
   We are cooking.\
 
 * [ ] Openbook MarketId _**(Soon 👩🏻‍🍳​​ )**_\
-  We are cooking\
+  We are cooking.\
 
 * [x] More featured
 
